@@ -1,3 +1,4 @@
-print(" qualquer coisa")
+a = 5 
 
-print(" qualquer coisa")
+b = 3
+
